@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Anuska!
 
-<!--
-**anuskadey18/anuskadey18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE undergrad specializing in AI 
+💡 Tech enthusiast | 🧠 curious to explore, learn, and create  
+📚 Passionate about creating change, social work, and tech!
+✨ When I’m not studying or coding, you’ll probably find me watching cricket, playing games, or on a bike ride.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- 💻 Languages: C, Python
+- 🎨 Web Tech: HTML, CSS  
+- 🛠 Tools: Git, GitHub, VS Code, PyCharm

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajY3eG1kcmlxazZmc294ZWd1YzZrOWp2eDc1cGtqbzE3Y3IzcXZmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7u2RQbvQ7c97QCX9p/giphy.gif" width="800" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajY3eG1kcmlxazZmc294ZWd1YzZrOWp2eDc1cGtqbzE3Y3IzcXZmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7u2RQbvQ7c97QCX9p/giphy.gif" width="700" />
 </p>
  Hi there 👋 I'm Anuska!
 
